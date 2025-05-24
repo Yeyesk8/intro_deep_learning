@@ -19,6 +19,9 @@ Este script usa un modelo preentrenado de Hugging Face (`google/vit-base-patch16
 git clone https://github.com/Yeyesk8/intro_deep_learning.git
 cd intro_deep_learning/tasks/PabloCrespo
 ```
+Introduce una URL de imagen cuando se te solicite.
+Por ejemplo:
+https://huggingface.co/datasets/mishig/sample-images/resolve/main/tiger.jpg
 
 2. Instala las dependencias necesarias:
 ```bash
