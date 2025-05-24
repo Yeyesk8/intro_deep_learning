@@ -18,5 +18,13 @@ Este script usa un modelo preentrenado de Hugging Face (`google/vit-base-patch16
 ```bash
 git clone https://github.com/Yeyesk8/intro_deep_learning.git
 cd intro_deep_learning/tasks/PabloCrespo
+```
 
-
+2. Instala las dependencias necesarias:
+```bash
+pip install transformers torch pillow
+```
+🚀 Uso
+Ejecuta el script desde terminal con:
+```bash
+python image_predictor.py
